@@ -1,6 +1,5 @@
-<h2>Hi There! I'm Parsia Rezaei 🖐</h2>
 
-<h3>👨‍💻 &nbsp; About Me</h3>
+<h2>👨‍💻 &nbsp; About Me</h2>
 
 ```javascript 
   const developer = {
