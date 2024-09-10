@@ -48,7 +48,7 @@
       <img width="36" height="36" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/telegram-svgrepo-com.svg" />
    </a>
   &nbsp;
-  <a href="https://www.linkedin.com/parsia-rezaei/">
+  <a href="https://www.linkedin.com/in/parsia-rezaei-a42348323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img width="36" height="36" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/linkedin-svgrepo-com.svg" />
   </a>
 </p>
