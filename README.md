@@ -13,7 +13,7 @@
 ```
 <br/>
 
-💻 Started my coding journey when I was 15. fallen in love with web development especially Javascript now I have been working as a front end developer for almost 2 years. Highly skilled in UI and designing modern web applications with the latest web technologies.
+🙋‍♂️ Started my coding journey when I was 15. fallen in love with web development especially Javascript now I have been working as a front end developer for almost 2 years. Highly skilled in UI and designing modern web applications with the latest web technologies.
 
 <br/>
 
