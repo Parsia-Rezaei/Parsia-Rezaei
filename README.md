@@ -48,7 +48,7 @@
       <img width="36" height="36" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/telegram-svgrepo-com.svg" />
    </a>
   &nbsp;
-  <a href="https://t.me/Parsia_1383/">
+  <a href="https://www.linkedin.com/parsia-rezaei/">
     <img width="36" height="36" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/linkedin-svgrepo-com.svg" />
   </a>
 </p>
