@@ -35,7 +35,7 @@
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-<a href="https://github.com/sabzlearn-ir">
+<a href="https://github.com/parsia-rezaei">
   <img src="https://github-readme-stats.vercel.app/api?username=parsia-rezaei&show_icons=true&theme=tokyonight" />
   &nbsp;
   &nbsp;
@@ -44,7 +44,7 @@
 
 <h2>📞 &nbsp; Contact me </h2>
 <p>
-   <a href="">
+   <a href="https://t.me/Parsia_1383/">
       <img width="36" height="36" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/telegram-svgrepo-com.svg" />
    </a>
   &nbsp;
