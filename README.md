@@ -1,31 +1,46 @@
-# Hi there , I am Parsia Rezaei
+<h2>Hi There! I'm Parsia Rezaei 🖐</h2>
 
-## My activity
-<img src="https://github-readme-stats.vercel.app/api?username=parsia-rezaei&show_icons=true&theme=tokyonight"/>
+<h3>👨‍💻 &nbsp; About Me</h3>
 
-- this **text** bold
-- this is ***text*** bold
-
-----------
-
-using npm `create-react-app` is out of date??
-
-> I am Developer
->> react js vs react.native
-
-
-------------
+```javascript 
+  const developer = {
+    id:unique,
+    name:"Parsia Rezaei",
+    age:19,
+    job:"Front-end Developer",
+    intrests:"Coding :))",
+    skills: ["HTML" , "CSS" , "Git" , "Javascript" , "Webpack & vite" , "React.js" , "Next.js"],
+}
 ```
-const isLogin = () => true;
+<br/>
 
-```
+💻 Started my coding journey when I was 15. fallen in love with web development especially Javascript now I have been working as a front end developer for almost 2 years. Highly skilled in UI and designing modern web applications with the latest web technologies.
 
---------
+<br/>
 
-| Front-end | backend | framework |
-| -- | -- | --|
-| java script | php | vue js and laravel |
-| row 1 | row 2 | row 3 |
-| row 1 | row 2 | row 3 |
-| row 1 | row 2 | row 3 |
-| row 1 | row 2 | row 3 |
+<h2>🔧 &nbsp; Skills</h2>
+  
+<br />
+
+<h2>⚡️ &nbsp; Github Stats</h2>
+
+<a href="https://github.com/sabzlearn-ir">
+  <img src="https://github-readme-stats.vercel.app/api?username=parsia-rezaei&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parsia-rezaei&theme=dark" />
+</a>
+
+<h2>📞 &nbsp; Connct Me </h2>
+
+<p align="center">
+  <a href="https://sabzlearn.ir/">
+    <img src="https://img.shields.io/badge/Website-www.Sabzlearn.ir-blue?style=flat&logo=google-chrome" />
+  </a>
+  <a href="https://instagram.com/rad_front/">
+    <img src="https://img.shields.io/badge/Instagram-@Rad_Front-red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/aminkhoy78/">
+    <img src="https://img.shields.io/badge/Telegram-@AminKhoy78-blue?style=flat&logo=telegram" />
+  </a>
+</p>
+
+<br />
