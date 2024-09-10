@@ -35,8 +35,6 @@
 
 <h2>⚡️ &nbsp; Github Stats</h2>
 
-![](https://github.com/parsia-rezaei/parsia-rezaei/blob/main/generated/languages.svg)
-
 <a href="https://github.com/parsia-rezaei">
   <img src="https://github-readme-stats.vercel.app/api?username=parsia-rezaei&show_icons=true&theme=tokyonight" />
 </a>
