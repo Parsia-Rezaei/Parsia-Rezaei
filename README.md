@@ -43,9 +43,6 @@
 </a>
 
 <h2>📞 &nbsp; Contact me </h2>
-  <a href="">
-    <img src="" alt="Telegram" / >
-  </a>
 <p>
    <a href="">
       <img width="36" height="36" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/telegram-svgrepo-com.svg" />
