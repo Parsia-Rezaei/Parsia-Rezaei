@@ -14,11 +14,13 @@
 ```
 <br/>
 
+<img src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
 🙋‍♂️ Started my coding journey when I was 15. fallen in love with web development especially Javascript now I have been working as a front end developer for years. Highly skilled in UI and designing modern web applications with the latest web technologies.
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Gem%20Stone.webp" alt="Gem Stone" width="30" height="30" /> &nbsp; Skills
+## <img src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="30" /> &nbsp; Skills
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
