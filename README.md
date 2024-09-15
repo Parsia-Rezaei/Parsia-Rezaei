@@ -57,13 +57,13 @@ If you're working on something cool and need help, feel free to reach out! 😊
 </a>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Mailbox%20with%20Raised%20Flag.png" alt="Open Mailbox with Raised Flag" width="30" height="30" /> &nbsp; Contact me </h2>
-<p>
-   <a href="https://t.me/Parsia_1383/">
-      <img width="36" height="36" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/telegram-svgrepo-com.svg" />
+
+  - Telegram: <a href="https://t.me/Parsia_1383/">
+      parsia_1383
    </a>
-  <a href="https://www.linkedin.com/in/parsia-rezaei-a42348323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img width="36" height="36" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/linkedin-svgrepo-com.svg" />
+   
+  - Linkedin: <a href="https://www.linkedin.com/in/parsia-rezaei-a42348323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  parsia-rezaei
   </a>
-</p>
 
 <br />
