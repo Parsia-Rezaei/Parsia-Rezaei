@@ -36,9 +36,9 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> &nbsp; Looking to Collaborate On
 I'm eager to collaborate with other developers and teams on exciting projects! Specifically, I am looking forward to working on:
 
-Open-source projects related to [Tech Stack/Interests]
-Innovative web or mobile apps using [Technology/Frameworks]
-Cross-functional teams for hackathons, coding challenges, or open-source events.
+- Open-source projects related to Frontend 
+- Innovative web or mobile apps using javascript & React.js
+- Cross-functional teams for coding challenges, or open-source events.
 If you're working on something cool and need help, feel free to reach out! 😊
 
 
