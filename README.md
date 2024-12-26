@@ -16,7 +16,7 @@
 
 <img src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-🙋‍♂️ Started my coding journey when I was 15. fallen in love with web development especially Javascript now I have been working as a front end developer for years. Highly skilled in UI and designing modern web applications with the latest web technologies.
+🙋‍♂️ A Front-end developer passionate about solving organizational challenges and constantly pushing boundaries. I love taking on new challenges, developing diverse projects, and exploring innovative ideas. With a keen eye for creativity and an eagerness to learn, I bring fresh perspectives to every task. My coding journey began at the age of 14, igniting a passion that continues to drive me forward. Always staying engaged with the latest trends and technologies, I strive to deliver exceptional solutions.
 
 <br/>
 
