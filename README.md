@@ -62,7 +62,7 @@ If you're working on something cool and need help, feel free to reach out! 😊
       parsia_1383
    </a>
    
-  - Linkedin: <a href="https://www.linkedin.com/in/parsia-rezaei-a42348323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  - Linkedin: <a href="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/linkedin-svgrepo-com.svg">
   parsia-rezaei
   </a>
 
