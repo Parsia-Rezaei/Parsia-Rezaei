@@ -66,7 +66,7 @@ If you're working on something cool and need help, feel free to reach out! 😊
      <img width="60" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/telegram.svg" /> 
    </a>
     &nbsp;
-   <a href="www.linkedin.com/in/parsia-rezaei">
+   <a href="https://www.linkedin.com/in/parsia-rezaei/">
      <img width="60" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/linkedin-svgrepo-com.svg" />
   </a>
 
