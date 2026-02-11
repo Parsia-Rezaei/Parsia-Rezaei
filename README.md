@@ -6,17 +6,17 @@
   const developer = {
     id:unique,
     name:"Parsia Rezaei",
-    age:19,
-    job:"Front-end Developer",
-    intrests:"Coding :))",
-    skills: ["HTML" , "CSS" , "Git" , "Javascript" , "Webpack & vite" , "React.js" , "Next.js"],
+    job:"Mid-Level Front-End Developer",
+    intrests:"Solving riddles in the code, finding solutions, diving deeply into how things work under the hood, achieving deep knowledge of Techs not surfacing hypes' waves in the ocean of unknown things",
+    skills: ["HTML" , "CSS" , "Git" , "Javascript" , "Webpack & vite" , "React.js" , "Next.js", "Vitest" , "Jest" , "React Testing library" , "json-dom"],
+    languages:["English (native-like fluency)" , "German"]
 }
 ```
 <br/>
 
 <img src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-🙋‍♂️ A Front-end developer passionate about solving organizational challenges and constantly pushing boundaries. I love taking on new challenges, developing diverse projects, and exploring innovative ideas. With a keen eye for creativity and an eagerness to learn, I bring fresh perspectives to every task. My coding journey began at the age of 14, igniting a passion that continues to drive me forward. Always staying engaged with the latest trends and technologies, I strive to deliver exceptional solutions.
+Mid-level Front-End Developer with 4 years of experience building fast, scalable, and user-focused web applications specialized in React and Next.js with deep knowledge of the ecosystem and a strong understanding of rendering strategies such as CSR, SSR, SSG, and ISR. I focus on performance, clean architecture, and maintainable solutions rather than shallow, tool-driven development. Experienced in collaborating in frontend development for complex products, designing advanced features like optimized caching systems, multi-step order flows. Worked on building and maintaining payment management systems, e-commerce platforms and professional admin dashboards, delivering secure, high-performance, and scalable front-end solutions in collaboration with backend teams.
 
 <br/>
 
