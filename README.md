@@ -62,7 +62,7 @@ If you're working on something cool and need help, feel free to reach out! 😊
      <img width="60" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/instagram-2016-5.svg" /> 
   </a>
    &nbsp;
-   <a href="https://t.me/Parsia_1383/">
+   <a href="https://t.me/parsia_rezaei">
      <img width="60" src="https://github.com/Parsia-Rezaei/Parsia-Rezaei/blob/main/telegram.svg" /> 
    </a>
     &nbsp;
